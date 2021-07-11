@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muke-sh" alt="muke-sh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_muke_sh" target="blank"><img src="https://img.shields.io/twitter/follow/_muke_sh?logo=twitter&style=for-the-badge" alt="_muke_sh" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs**
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/_muke_sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_muke_sh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mukesh-jangid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukesh-jangid" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/thedementor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thedementor" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/mukeshjangir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="mukeshjangir" height="30" width="40" /></a>
